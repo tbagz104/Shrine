@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/03d95e2ec81bf572bcb58974acba7470/material-1.1.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9091c0c48f98129aad563c34f8c11793/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/0479f986d7ebd4c02e6356c57cfa8cdf/viewpager2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/08d4061233d5775f6e62d4bf563559ba/appcompat-1.1.0-alpha03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/80a41679cb4e2dc0eae8a00e40ae347f/appcompat-resources-1.1.0-alpha03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/91a2e0650e476867729e44e6c1acc534/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ea8a6e5d369c35ecf11563f048037f22/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57609407f92b9d998cf6a5bf744c7612/vectordrawable-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/701fc794b5ea7c4ca8e27dcb868c0179/fragment-1.1.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9ef217cf5d8d95b5ddc7daaaad100113/recyclerview-1.1.0-alpha03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/826c619781b7e23a487437fe3da497b0/activity-1.0.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57a8abe431d32996cff2afeaa5918b8a/versionedparcelable-1.1.0-alpha02/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7284bace20bec096294b5474e153fbf/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c073c929da6ad4e112abaac7d3212747/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e72949b043b8df7a6068dab5e7cd21f2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/94f12988ad093836c8130157a1f6064f/lifecycle-runtime-2.1.0-alpha03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/510de6e50db7f77fef51eb147fb0b516/savedstate-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1cbb96410d4f25e14c4765520eaac83a/lifecycle-viewmodel-2.1.0-alpha03/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/03d95e2ec81bf572bcb58974acba7470/material-1.1.0-alpha06/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/03d95e2ec81bf572bcb58974acba7470/material-1.1.0-alpha06/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9091c0c48f98129aad563c34f8c11793/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9091c0c48f98129aad563c34f8c11793/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57a8abe431d32996cff2afeaa5918b8a/versionedparcelable-1.1.0-alpha02/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57a8abe431d32996cff2afeaa5918b8a/versionedparcelable-1.1.0-alpha02/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:11:9-45
+	android:roundIcon
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:14:9-89
+activity#com.google.codelabs.mdc.java.shrine.MainActivity
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/03d95e2ec81bf572bcb58974acba7470/material-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/03d95e2ec81bf572bcb58974acba7470/material-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1d93c655cdcaa19a3180f48e63f30b3d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9091c0c48f98129aad563c34f8c11793/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9091c0c48f98129aad563c34f8c11793/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c034f7088c57e18a85dafc68b942945f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/0479f986d7ebd4c02e6356c57cfa8cdf/viewpager2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/0479f986d7ebd4c02e6356c57cfa8cdf/viewpager2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/08d4061233d5775f6e62d4bf563559ba/appcompat-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/08d4061233d5775f6e62d4bf563559ba/appcompat-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/80a41679cb4e2dc0eae8a00e40ae347f/appcompat-resources-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/80a41679cb4e2dc0eae8a00e40ae347f/appcompat-resources-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/91a2e0650e476867729e44e6c1acc534/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/91a2e0650e476867729e44e6c1acc534/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/67e3a22614326cadf216274f01d6d423/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ea8a6e5d369c35ecf11563f048037f22/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ea8a6e5d369c35ecf11563f048037f22/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/984e9edaa0792ad5f44429be517dd8ee/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/278c8e284db6fc9800db55d51ff5aab6/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57609407f92b9d998cf6a5bf744c7612/vectordrawable-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57609407f92b9d998cf6a5bf744c7612/vectordrawable-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7201af0ac6a1eb782d2b896d1ec4242/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/fb37b7f790edcc9d7fe6d3e5314b8c56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/3d66247cb3e229dc7753f5f4d3b35b4b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/701fc794b5ea7c4ca8e27dcb868c0179/fragment-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/701fc794b5ea7c4ca8e27dcb868c0179/fragment-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7ae8c1d65b7331eeb350edf91287a16c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/985ff358bb91108c25d3fd24361b35b6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9ef217cf5d8d95b5ddc7daaaad100113/recyclerview-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9ef217cf5d8d95b5ddc7daaaad100113/recyclerview-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2dfde23a071269bfc073d57af77f7873/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/9b9140e118d7f4f83e504277c0661cb2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/2d1f640c1b4beb33089ff5c91bbd7f31/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/7b3b7b721ad53547c0e35001526b3ae3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8506ddbc1ed30380944ad7f0369e4760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/de3b4aff63e255359d6d83ac6fbdaff5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/35d6382087ac1999db47004e3bf24934/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/8893b90c6f2a61edd1acfa898cb4cde1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/826c619781b7e23a487437fe3da497b0/activity-1.0.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/826c619781b7e23a487437fe3da497b0/activity-1.0.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/ee60f0b86e894cec780162dd7a829857/core-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57a8abe431d32996cff2afeaa5918b8a/versionedparcelable-1.1.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/57a8abe431d32996cff2afeaa5918b8a/versionedparcelable-1.1.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7284bace20bec096294b5474e153fbf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e7284bace20bec096294b5474e153fbf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c073c929da6ad4e112abaac7d3212747/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/c073c929da6ad4e112abaac7d3212747/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e72949b043b8df7a6068dab5e7cd21f2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/e72949b043b8df7a6068dab5e7cd21f2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/94f12988ad093836c8130157a1f6064f/lifecycle-runtime-2.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/94f12988ad093836c8130157a1f6064f/lifecycle-runtime-2.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/510de6e50db7f77fef51eb147fb0b516/savedstate-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/510de6e50db7f77fef51eb147fb0b516/savedstate-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1cbb96410d4f25e14c4765520eaac83a/lifecycle-viewmodel-2.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /home/akshayhari4/.gradle/caches/transforms-2/files-2.1/1cbb96410d4f25e14c4765520eaac83a/lifecycle-viewmodel-2.1.0-alpha03/AndroidManifest.xml:20:5-44
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		ADDED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akshayhari4/Desktop/material-components-android-codelabs/java/shrine/app/src/main/AndroidManifest.xml
